@@ -3,7 +3,7 @@ import studentsData from "../data/students.json"
 import { Link, useNavigate } from "react-router-dom";
 import "../App.css";
 import * as XLSX from "xlsx";
-import "./studenttable.css"
+import "./studentTable.css"
 
 function Studenttable() {
 
